@@ -16,9 +16,11 @@ Each week contains notebooks with concepts, practice exercises, and mini project
 ## Learning Progress
 
 ### Week 1 – Python Foundations
-- Day 1: Python Basics (variables, data types, conditions)
-- Day 2: Python Lists and list operations
-- Day 3: Dictionaries *(coming next)*
+- Day 1: Python Basics (variables, data types, conditional statements, logical operators)
+- Day 2: Python Lists (indexing, slicing, list methods, filtering, sorting)
+- Day 3: Python Dictionaries (key-value structure, nested dictionaries, transformations, mini project)
+
+More topics will be added as the learning journey progresses.
 
 ---
 
@@ -29,4 +31,4 @@ Each week contains notebooks with concepts, practice exercises, and mini project
 
 ---
 
-This repository will gradually evolve into a **complete data analysis portfolio**.
+This repository will gradually evolve into a **complete data analysis portfolio**, showcasing my progress from Python fundamentals to real-world data analysis projects.
